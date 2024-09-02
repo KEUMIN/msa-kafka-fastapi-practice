@@ -1,0 +1,76 @@
+# Virtual Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*~
+
+# Database
+*.sqlite3
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
